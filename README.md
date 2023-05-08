@@ -13,7 +13,7 @@
 활용 
 - Python, google console, ML, scikit-learn
 
-통계적 기술 활용
+통계적 기법
 - 히스토그램
 - 이상치 
 - 박스그림
